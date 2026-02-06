@@ -70,7 +70,7 @@ pipeline {
        //     bridgecrew/checkov:latest \
         //    -d /repo/infra \
         //    --config-file /repo/infra/.checkov.yml \
-            --external-checks-dir /repo/.checkov/custom_policies
+         //   --external-checks-dir /repo/.checkov/custom_policies
        // """
     //  }
    // }
